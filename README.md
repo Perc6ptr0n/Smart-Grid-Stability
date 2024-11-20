@@ -15,6 +15,7 @@ To analyze grid stability, researchers have developed models such as the Decentr
 
 An alternative approach involves leveraging machine learning to predict grid stability. By generating a synthetic dataset from simulations of a reference 4-node star grid architecture, researchers have trained learning models to classify grid states as "stable" or "unstable." These simulations provide a robust dataset for training, consisting of key features such as reaction times, power generation and consumption, and price elasticity coefficients for each node in the grid. The dataset enables machine learning models to generalize and predict stability outcomes without relying on restrictive assumptions.
 
+![image](https://github.com/user-attachments/assets/37f14efc-d50e-42e3-a49d-a509e86f2241)
 
 ***Objectives of This Study***
 
